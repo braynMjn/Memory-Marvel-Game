@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+  }
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    width: 450px;
+    /* margin-left: 35%; */
+    
+}
+
+h1{
+    font-size: 300%;
+    text-align: center;
+    font-family: cursive;
+    background-color: rgb(236, 34, 34);
+    color: #ffffff;
+    padding: 15px;
+    margin-top: -1%;
+}
+
+h3{
+    color: rgb(236, 34, 34);
+    font-size: 32pt;
+    text-align: center;
+    font-family: cursive;
+}
