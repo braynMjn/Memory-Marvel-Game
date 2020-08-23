@@ -15,4 +15,4 @@ https://braynmjn.github.io/Memory-Marvel-Game/
 
 **Screenshot:**
 
-![Alt text](/relative/path/to/Screenshot.PNG?raw=true "Screenshot")
+![Alt text](/relative/path/to/Screenshot.jpg?raw=true "Screenshot")
