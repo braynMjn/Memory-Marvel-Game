@@ -2,12 +2,12 @@
 
 A simple memory game using images of Marvel characters developed using html, css and js. 
 
-##How to use?
+**How to use?**
 
 1. Download all the files.
 2. Open index.html using a web browser. 
 
-######Or,
+**Or,**
 
 **Open this link**
 
@@ -15,3 +15,4 @@ https://braynmjn.github.io/Memory-Marvel-Game/
 
 **Screenshot:**
 
+![Alt text](/relative/path/to/Screenshot.PNG?raw=true "Screenshot")
